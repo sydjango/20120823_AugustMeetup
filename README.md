@@ -13,5 +13,5 @@ Speakers
 	
 3. **Gary Reynolds**: "I've decided to cover an approach to writing your views that often doesn't get much coverage. The approach is writing an Application class with the views written as methods -- the only classic example I know of is django.contrib.admin."
 	- Slides: http://www.slideshare.net/goodtune/method-based-views-in-django-applications-14050952
-	- https://bitbucket.org/goodtune/sydjango-example-two
+	- Code: https://bitbucket.org/goodtune/sydjango-example-two
 
